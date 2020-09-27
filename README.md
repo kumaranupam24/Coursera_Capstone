@@ -1,4 +1,4 @@
-# Coursera_Applied-Data-Science-Capston
+# Coursera_Applied-Data-Science-Capstone
 Applied Data Science Capstone project on Traffic Accident Severity. This project is under Data Science Professional Certification by Coursera.
 
 # Introduction
